@@ -2,4 +2,5 @@
 A minimal foobar2000 mobile skin
 
 
-![Screenshot_20221107-110546](https://user-images.githubusercontent.com/16135535/200359277-a9d22d5e-b22a-49f8-b504-ec05df732662.png)
+![Screenshot_20221107-161120](https://user-images.githubusercontent.com/16135535/200416941-aa9fb9a3-dc60-4ea1-b280-3fabff501d8d.png)
+
