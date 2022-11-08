@@ -3,7 +3,8 @@ A minimal foobar2000 mobile skin
 
 
 
-![Screenshot_20221108-135454](https://user-images.githubusercontent.com/16135535/200651528-ad08fdd8-21ed-4808-8d13-cd92bcbfa1dd.png)
 
 
 
+
+![Screenshot_20221108-165443](https://user-images.githubusercontent.com/16135535/200684593-75736fc4-ae1e-4775-aa39-1d8ec8ee1583.png)
