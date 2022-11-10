@@ -1,8 +1,9 @@
 # Foobar2000-MobileSkinAlienCat
 A minimal foobar2000 mobile skin
 
-![Screenshot_20221109-232529](https://user-images.githubusercontent.com/16135535/201000798-1829d48b-2c9c-4ac2-a8c5-4bc11d719504.png)
-![Screenshot_20221109-232538](https://user-images.githubusercontent.com/16135535/201000813-67c2b001-2871-46b1-b3c0-38ccb48a1b1e.png)
+![Screenshot_20221110-084835](https://user-images.githubusercontent.com/16135535/201109391-7fd24064-0715-4770-9cf7-caa9c2621aeb.png)
+![Screenshot_20221110-084847](https://user-images.githubusercontent.com/16135535/201109420-4a97de24-18a0-4f2a-98fe-5d1006f25a92.png)
+
 
 
 
