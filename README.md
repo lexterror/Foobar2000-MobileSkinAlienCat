@@ -5,6 +5,7 @@ All vector artwork is included for distribution and modification. Thank you!
 
 Created by electrolex!
 
-![Screenshot_20231215-184332](https://github.com/lexterror/Foobar2000-MobileSkinAlienCat/assets/16135535/6d940858-f28c-4d1b-aa96-de33ceb3214d)
+![Screenshot_20240420-113403](https://github.com/lexterror/Foobar2000-MobileSkinAlienCat/assets/16135535/cbbba135-6560-491c-9831-f1e0918e980b)
 
-![Screenshot_20231215-184344](https://github.com/lexterror/Foobar2000-MobileSkinAlienCat/assets/16135535/fbfa34ca-a607-4f4b-a93b-a2183f610132)
+![Screenshot_20240420-113135](https://github.com/lexterror/Foobar2000-MobileSkinAlienCat/assets/16135535/3336c139-ef6b-4bd2-a496-e8c42f79e682)
+
